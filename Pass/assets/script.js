@@ -13,7 +13,6 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 //between 8 and 128 characters
-//can be written in an alert or written on the page itself
 
 var specialCharacters = ["!", "%", "&", ",", "*", "+", "-", ".", "/", "<", ">", "?", "~"];
 var numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
